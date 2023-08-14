@@ -1,16 +1,19 @@
-# muvee_mobile
+# Muvee Flutter App
 
-A new Flutter project.
+Muvee is a movie watchlist mobile application built using Flutter. It allows users to easily manage and keep track of the movies they want to watch.
 
-## Getting Started
+Muvee App Screenshot
+![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/1.png?raw=true)
+![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/2.png?raw=true)
+![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/3.png?raw=true)
+![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/4.png?raw=true)
+![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/5.png?raw=true)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Movies:** Quickly add movies to your watchlist with a simple user interface.
+- **Search Movies:** Effortlessly search for movies by title, genre, or keywords.
+- **Watched Status:** Mark movies as watched or unwatched.
+- **Personalization:** Customize your watchlist by categorizing movies into favorites or different genres.
+- **Sleek Design:** Intuitive and user-friendly design for a seamless experience.
