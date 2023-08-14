@@ -2,7 +2,7 @@
 
 Muvee is a mobile application built using Flutter for the frontend and Django for the backend. It allows users to create and manage their movie watchlists effortlessly.
 
-![Muvee App Screenshot]
+Muvee App Screenshot
 ![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/1.png?raw=true)
 ![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/2.png?raw=true)
 ![alt text](https://github.com/codeen15/muvee/blob/main/snapshots/3.png?raw=true)
