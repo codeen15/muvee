@@ -50,6 +50,7 @@ def register(request):
     except IntegrityError as e:
         return Response(data={'message': 'Email already registered'},status=status.HTTP_400_BAD_REQUEST)
     except Exception as e:
+        print(e)
         return Response(status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 @api_view(['POST'])
